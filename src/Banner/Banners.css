@@ -1,0 +1,17 @@
+
+.bannering{
+    margin:0 auto;
+   
+   height: 400px;
+   background-color:  rgb(120, 206, 218);
+  
+  
+}
+.imaging{
+   width:100%;
+   height:400px;
+   margin: 0 auto;
+   align-items: center;
+   margin-top: 30px;
+
+}

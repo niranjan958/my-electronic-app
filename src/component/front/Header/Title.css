@@ -1,0 +1,97 @@
+.container {
+    background-color: rgb(43, 32, 207);
+    display: sticky;
+    overflow: hidden;
+    display: fixed;
+    margin: 0 auto;
+}
+
+.row-thrill {
+    background-color: rgb(1, 25, 39);
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+}
+
+.leo {
+    text-decoration: none;
+    color:rgb(223, 204, 204);
+    padding: 30px;
+    margin-top: 30px;
+    transition: fontsize 1s;
+}
+:hover.leo{
+    font-size: 40px;
+    color: rgb(190, 166, 27);
+}
+.list {
+    margin-left: 10px;
+    
+}
+.vijay {
+    list-style: none;
+    padding: 10px;
+    font-size: 25px;
+    font-weight: 600;
+    display:inline-block;
+    
+}
+.ajith {
+    color: rgb(223, 204, 204);
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    position: relative;
+    left:400px;
+}
+:hover.ajith{
+    font-size: 30px;
+    color:rgb(175, 154, 31);
+}
+
+.thunivu {
+    color: yellowgreen;
+    margin-right: 30px;
+
+}
+
+.lego {
+
+    text-transform: uppercase;
+    display: flex;
+}
+.cart-lens{
+    color:rgb(187, 43, 43);
+    margin-left: 5px;
+}
+
+
+
+
+
+
+
+/* 
+navbar-nav.thrill {
+    margin-left: 300px;
+
+
+    color: antiquewhite;
+    font-size: 25px;
+}
+
+.volvar {
+    color: cadetblue;
+}
+
+.kill {
+    color: antiquewhite;
+    font-size: 30px;
+}
+
+.killer {
+    color: antiquewhite;
+}
+
+:hover.nav-link.killer {
+    color: goldenrod;
+} */
